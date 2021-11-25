@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinArt", "SinArt\SinArt.csproj", "{463CCAF6-5ABC-4F14-B55B-4E9158A9AD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463CCAF6-5ABC-4F14-B55B-4E9158A9AD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463CCAF6-5ABC-4F14-B55B-4E9158A9AD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463CCAF6-5ABC-4F14-B55B-4E9158A9AD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463CCAF6-5ABC-4F14-B55B-4E9158A9AD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A43891-7C0C-48FE-83EC-C7F88ABB3757}
+	EndGlobalSection
+EndGlobal
